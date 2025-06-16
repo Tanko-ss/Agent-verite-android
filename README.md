@@ -1,2 +1,3 @@
 # Agent-verite-android
-Jeu interactil de logique et verite
+Jeu interactif de logique et verite
+Apprendre par plaisir et découvrir plus tout en étant bien guider
