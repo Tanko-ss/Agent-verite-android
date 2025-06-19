@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../data"
+		},
+		{
+			"path": "../../episodes"
+		},
+		{
+			"path": "../../jeux"
+		}
+	],
+	"settings": {}
+}
